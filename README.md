@@ -17,7 +17,7 @@ TariqMap helps users navigate their learning journey by creating customized road
 ## 🛠️ Technologies
 
 - **Backend**: Java with Spring Boot
-- **Frontend**: Thymeleaf, HTML, CSS, JavaScript
+- **Frontend**: React
 - **AI Integration**: OpenAI API
 - **Email Service**: Spring Mail with SMTP
 
