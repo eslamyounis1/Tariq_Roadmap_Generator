@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for body to maintain consistency */
+/* body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* Additional styles can be added here if needed */
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+}
+
+h1 {
+  color: #1d4ed8;
+}
+
+input {
+  border: 1px solid #e5e7eb;
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+  margin: 5px 0;
+}
+
+a {
+  color: #2563eb;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #1e40af;
+}
